@@ -1,0 +1,16 @@
+transformers
+langchain
+unstructured
+sentence-transformers
+faiss-cpu
+libmagic
+python-magic
+python-magic-bin
+pandas
+numpy
+openai
+tiktoken
+dash
+dash_bootstrap_components
+dash_mantine_components
+dash_iconify
