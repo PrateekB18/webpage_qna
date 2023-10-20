@@ -12,4 +12,5 @@ To use the question-answer feature, OpenAI API key is required.
 
 
 **Screenshot:**
+
 <img src="https://i.imgur.com/nhN07Rp.png">
